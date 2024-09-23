@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\Jordan\Desktop\Desktop\School\Spring 2024\COP3530\ArrayList\Source.cpp(87): error C4703: potentially uninitialized local pointer variable 'prev' used
